@@ -1,0 +1,25 @@
+<!Doctype html>
+<html>
+<heard>
+<title>...</title>
+<meta>
+<meta>
+</heard>
+
+<body>
+
+<script language="javascript">
+
+/* Objetivo */
+
+/* Definição de variáveis */
+
+/* Extração de Dados */
+
+/* Saida de Dados */
+
+
+</script>
+
+</body>
+</html>
